@@ -1,5 +1,4 @@
-
-## HTML5 Semantic Elements Used
+HTML5 Semantic Elements Used
 
 - `<header>` - Site header with navigation
 - `<nav>` - Main navigation
