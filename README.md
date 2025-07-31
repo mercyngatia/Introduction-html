@@ -41,5 +41,5 @@
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-**Mercy Ngatia** - [mercy.mercy@gmail.com](mailto:mercy.mercy@gmail.com)  
+**Mercy Ngatia** 
 [Web Accessibility Initiative](https://www.w3.org/WAI/)
